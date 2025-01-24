@@ -1,5 +1,3 @@
-# DDI_Project_Code
-
 # Drug-Drug Interaction (DDI) Prediction Project
 
 ## Overview
